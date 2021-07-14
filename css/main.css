@@ -1,0 +1,46 @@
+/* цвет ховера(фокуса) текста ссылок нав.панели #2196F3;*/
+/* цвет текста лого #2196F3(Web)+#212121(Studio) */
+
+/* цвет бэкграунда боди #FFFFFF*/
+
+/* цвет текста заголовков секций и навигационной панели #212121*/
+/* цвет текста тел и мыло нав.пан, и контента секций #757575;*/
+
+/* цвет бэкграунда героя #2F303A */
+/* цвет текста героя #FFFFFF*/
+
+/* цвет бэкграунда Наша Команда #F5F4FA */
+
+/* цвет бэкграунда футера #2F303A */
+/*цвет address #FFFFFF*/
+/*цвет address тел и мыло rgba(255, 255, 255, 0.6)*/
+
+/* hero styles */
+.section-title {
+  color: var(--tittle-text-color);
+}
+
+.hero {
+  background-color: var(--background-color);
+}
+
+.hero-title {
+  color: var(--secondary-text-color);
+}
+
+.button {
+  color: var(--secondary-text-color);
+  background-color: var(--accent-color);
+  border: none;
+}
+/* features styles */
+
+.title {
+  color: var(--tittle-text-color);
+}
+
+/* team styles */
+
+.team {
+  background-color: var(--unique-background-color);
+}
