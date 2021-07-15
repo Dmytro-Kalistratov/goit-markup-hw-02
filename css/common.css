@@ -34,6 +34,9 @@ body {
 
 /* nav styles */
 
+.header {
+}
+
 .nav .nav-li:hover,
 .nav .nav-li:focus {
   color: var(--accent-color);
