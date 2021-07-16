@@ -97,7 +97,7 @@ body {
   font-size: 16px;
   line-height: 0.5;
   font-weight: 700;
-  font-family: inherit;
+  font: inherit;
   color: var(--secondary-text-color);
   background-color: var(--accent-color);
   border: none;
