@@ -97,7 +97,7 @@ body {
   font-size: 16px;
   line-height: 0.5;
   font-weight: 700;
-  font: inherit;
+  font-family: inherit;
   color: var(--secondary-text-color);
   background-color: var(--accent-color);
   border: none;
@@ -185,11 +185,15 @@ body {
   opacity: 0%;
 }
 
+body.button,
+body.buttons {
+  font-family: inherit;
+}
+
 .buttons {
   color: var(--tittle-text-color);
   background-color: var(--unique-background-color);
   border: none;
-  font-family: inherit;
   font-size: 16px;
   line-height: 0.6;
   font-weight: 500;
